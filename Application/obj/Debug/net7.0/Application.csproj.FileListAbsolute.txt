@@ -1,0 +1,17 @@
+c:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Application.dll
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Domain.dll
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Persistence.dll
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Domain.pdb
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\bin\Debug\net7.0\Persistence.pdb
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+c:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.dll
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\Application.pdb
+c:\Users\rakromond\Desktop\csharp-dotnet-react\Reactivities\Application\obj\Debug\net7.0\ref\Application.dll
