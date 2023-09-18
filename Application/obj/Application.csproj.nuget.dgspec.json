@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj": {}
+    "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj": {
+    "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\rakromond\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\obj\\",
+        "outputPath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj"
               },
               "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Persistence\\Persistence.csproj": {
                 "projectPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Persistence\\Persistence.csproj"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj": {
+    "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\rakromond\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -157,8 +157,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj"
+              "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
