@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "LSIufHvnuVPBLo4S4Qcp0RNdRY/daILNjAMKA3a8ALqPpx2KbS+J7RxgY5oAmDeBQgneBTwNHD86J6VzHgVIIg==",
+  "dgSpecHash": "aBAYt2uNa9Z/qbpzVxdBVFR2+f9xrTTYkJj7G2ymHhM16QVrCQCjadid/J/ZTBacnoWtGV+95yVfGij5if4S5Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rakromond\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\rakromond\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\rakromond\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\rakromond\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\rakromond\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\rakromond\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\rakromond\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\rakromond\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.11\\microsoft.data.sqlite.core.7.0.11.nupkg.sha512",
     "C:\\Users\\rakromond\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\rakromond\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

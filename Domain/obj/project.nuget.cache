@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "p2kvG/Rwu649x5YrHjFWhZE1agcVXgysaFictb0KadMcDmSbyLGi0Zdpr+zdQa3p/MjwqKXU7Z6Se5SchxJtyg==",
+  "dgSpecHash": "1oNSse7IPl3/N51iOdcr+xyi9aZjZYfp4Oa2R2FOb2VNNyPHvS4YHfqAaXFt18lQ/Fu3/LuiHrYfOA5ndLW/0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rakromond\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\rakromond\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\rakromond\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
