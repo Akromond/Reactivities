@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4eDxYu4bu2Wq3oPkemwfljlfxJXGlNLzJdee3We+2/7ld9yo7Ar387S2uvaDh3N6Yii/ol/0vIfLeZwYTI0iQ==",
+  "dgSpecHash": "ive3RpneslRWh4qTtAEHHeV0ftA11GvNGrXHFr9A240/xLrA/tfF17iFUsGWyFy5rDBVZ7rJqDwhw6NSWZpC2Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\Users\\rakromond\\Desktop\\csharp-dotnet-react\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rakromond\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
     "C:\\Users\\rakromond\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
